@@ -10,4 +10,4 @@ You can see the demo of the application by clicking the link below. Make sure yo
 
 **[Demo Link](https://expo.dev/@johandika/react_native?serviceType=classic&distribution=expo-go)**
 
-![QR Expo, Scan with Expo App](/path/to/screenshot1.jpg)
+![QR Expo, Scan with Expo App](/expo-go.svg)
